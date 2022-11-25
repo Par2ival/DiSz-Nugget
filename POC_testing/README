@@ -1,0 +1,4 @@
+#Proof Of Concept testing
+##Note: Testing is being done on an Arduino Uno
+
+Testing shows that the proof of concept works, my concern is that each sketch loaded on the S2 and the D1 will need to be edited slighly to add the toggle reading function..... and im not sure i have the knowledge to incorperate this on the more complex sketches yet.
