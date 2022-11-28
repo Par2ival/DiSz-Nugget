@@ -1,4 +1,8 @@
 #Proof Of Concept testing
 ##Note: Testing is being done on an Arduino Uno
 
+### 25th Nov
 Testing shows that the proof of concept works, my concern is that each sketch loaded on the S2 and the D1 will need to be edited slighly to add the toggle reading function..... and im not sure i have the knowledge to incorperate this on the more complex sketches yet.
+
+### 28th Nov
+Ive update the EPS8266 Deauther code by Spacehuhn to include the toggle, i cant test it as i dont ahve the required HW but it all compiles without errors so im hopefull (also couldnt upload the files coz there are too many....if they work after testing ill upload them in small lots as an example of the implementation)
