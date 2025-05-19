@@ -18,3 +18,9 @@ After building `DIY-Wifi-Nugget`, I saw someone on the HakCat Discord propose an
 - If i remove the DIP switch and replace it with a side mount toggle switch, i can free up enough room on the board to have 4 buttons and 2 NeoPixels. This would mean that id need to handle the control switching in the SW code as well as the toggle switch.
 ![DiSz_Layout_010](https://user-images.githubusercontent.com/24452466/203676824-b2390027-bec4-41ad-a0fe-86d5de9e34e8.png)
 
+### 1.0.0
+- It has been a long time since i spent any time on this project but i have come back to complete it before moving on to build a couple of other little toys. The noteable changes to 0.1.0 were that i was unable to Update the codeof the DevKitty image for the S2Nugget, so i had to incorperate rocket switches to flick the controles over from one device to the other.
+Note: The link on the DevKitty GitHub page to the image flasher no longer works so you need to navigate directly to https://nugget.dev/
+<image of breadboard serup>
+<Image of circuit board drawing>
+<Image of device>
